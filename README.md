@@ -1,6 +1,7 @@
 # USB LiIon/LiPoly charger
 
-<a href="http://www.adafruit.com/products/259"><img src="assets/board.jpg?raw=true" width="500px"></a>
+<a href="http://www.adafruit.com/products/259"><img src="assets/board.jpg?raw=true" width="500px"><br/>Click here to purchase one from the Adafruit shop
+</a>
 
 This is a Lithium Ion and Lithium Polymer battery charger based on the [MCP73833](http://www.microchip.com/wwwproducts/Devices.aspx?dDocName=en027785). It uses a USB mini-B for connection to any computer or 'USB wall adapter'. Charging is performed in three stages: first a preconditioning charge, then a constant-current fast charge and finally a constant-voltage trickle charge to keep the battery topped-up. The fast-charge current is 500mA by default, but is easily adjustable from 100mA up to 1000mA by soldering a through-hole resistor on-board.
 
