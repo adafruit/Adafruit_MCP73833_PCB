@@ -18,3 +18,11 @@ For use with Adafruit Lipoly batteries only! Other batteries may have different 
 - 0.1" (2.54mm) breakouts for the battery, DC, and status LEDs
 - Free 2-pin JST cable included!
 - [Batteries](http://www.adafruit.com/products/258) and [USB cable](http://www.adafruit.com/products/260) not included.
+
+### License
+
+Adafruit invests time and resources providing this open source design, please support Adafruit and open-source hardware by purchasing products from [Adafruit](https://www.adafruit.com)!
+
+Designed by Limor Fried/Ladyada for Adafruit Industries.
+
+Creative Commons Attribution/Share-Alike, all text above must be included in any redistribution. See license.txt for additional details.
